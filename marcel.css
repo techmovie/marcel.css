@@ -13,7 +13,7 @@ Profile: http://passthepopcorn.me/user.php?id=53284
     IMPORT WEBFONTS
 ------------------------------------- */
 
-@import url(//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i);
+@import url(//gist.githubusercontent.com/techmovie/b5b0b221c5ae558a3e550668c482b602/raw/95b0d8430e9a28e79eff29e23bf1c2233e4f783b/marcel.css);
 
 @font-face {
   font-family: 'FontAwesome';
